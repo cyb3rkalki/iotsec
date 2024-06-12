@@ -62,7 +62,8 @@ chmod +x moxie.sh
 
 ## Credits
 
-- Created by [aravind0x7](https://aravind0x7.in)
+- Contributor: [cyberkalki](https://www.cyberkalki.net/)
+- Author: [aravind0x7](https://aravind0x7.in)
 
 ## License
 
